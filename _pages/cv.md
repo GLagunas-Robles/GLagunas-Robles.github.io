@@ -35,9 +35,3 @@ _Biology_
 
 _Non-majors_
 * (BIOL 02) Cellular Basis of Life Lab
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
