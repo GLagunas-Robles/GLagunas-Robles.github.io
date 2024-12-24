@@ -14,11 +14,11 @@ Education
 * Ph.D. in Evolution, Ecology, and Organismal Biology, University of California, Riverside, 2024
 * B.Sc. in Biotechnology, Cal Poly Pomona, 2018
 
-Major Fellowships and Awards
+Select Fellowships and Awards
 ======
 * Dissertation Year Fellowship (3-month support), 2024
 * Alberta Conservation Association Grants in Biodiversity, 2020
-* National Science Foundation Graduate Student Fellowship, 2018
+* National Science Foundation Graduate Research Fellowship, 2018
 * Dean's Distinguished Fellowship, 2018
 * National Science Foundation Scholarship in STEM, 2016 and 2017
 * LSAMP scholar, 2016
@@ -34,4 +34,4 @@ _Biology_
 * (BIOL 116) Ecology and Conservation Biology Discussion
 
 _Non-majors_
-* (BIOL 02) Cellular Basis of Life Lab
+* (BIOL 002) Cellular Basis of Life Lab
