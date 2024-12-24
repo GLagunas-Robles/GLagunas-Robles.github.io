@@ -74,7 +74,7 @@ for row, item in publications.iterrows():
     
     md += """collection: publications"""
     
-    md += """\npermalink: /publication/""" + html_filename
+    md += """\npermalink: /publication/"""
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
@@ -98,7 +98,7 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: " + item.citation
+    md += item.citation
     
     md_filename = os.path.basename(md_filename)
        
