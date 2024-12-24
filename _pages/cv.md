@@ -1,64 +1,43 @@
 ---
 layout: archive
-title: "CV"
+title: "Last updated: Dec 23, 2024"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Evolution, Ecology, and Organismal Biology, University of California, Riverside, 2024
+* B.Sc. in Biotechnology, Cal Poly Pomona, 2018
 
-Work experience
+Major Fellowships and Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dissertation Year Fellowship (3-month support), 2024
+* Alberta Conservation Association Grants in Biodiversity, 2020
+* National Science Foundation Graduate Student Fellowship, 2018
+* Dean's Distinguished Fellowship, 2018
+* National Science Foundation Scholarship in STEM, 2016 and 2017
+* LSAMP scholar, 2016
+* McNair scholar, 2015
   
-Skills
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+UC Riverside Graduate Teaching Appointments (2019-2024)
+
+_Biology_
+* (BIOL 005B) Introduction to Organismal Biology Lab
+* (BIOL 005C) Introduction to Evolution and Ecology Lab
+* (BIOL 116) Ecology and Conservation Biology Discussion
+
+_Non-majors_
+* (BIOL 02) Cellular Basis of Life Lab
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
