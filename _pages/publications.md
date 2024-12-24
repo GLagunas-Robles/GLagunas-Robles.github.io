@@ -7,6 +7,8 @@ author_profile: true
 
 Vist <a href="https://scholar.google.com/citations?user=fPlSsrAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">my Google Scholar profile</a> for the most up-to-date list of publications.
 
+^denotes undergraduate mentee
+
 **Peer-reviewed articles**
 
 
@@ -19,4 +21,4 @@ Purcell J, **Lagunas‐Robles G**, Rabeling C, Borowiec ML, & Brelsford A, 2021.
 **Pre-prints**
 
 
-Lagunas-Robles G, Alam Z, and Brelsford A, 2024. Unexpected absence of a multiple-queen supergene haplotype from supercolonial populations of _Formica_ ants. _bioRxiv_ _in review_; https://doi.org/10.1101/2024.09.15.613148
+**Lagunas-Robles G**, Alam Z^, and Brelsford A, 2024. Unexpected absence of a multiple-queen supergene haplotype from supercolonial populations of _Formica_ ants. _bioRxiv_ _in review_; https://doi.org/10.1101/2024.09.15.613148
