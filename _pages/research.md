@@ -6,6 +6,10 @@ author_profile: true
 ---
 As an evolutionary biologist, I am fundamentally interested in how genome evolution can maintain diverging traits. I have explored this question through the lens of genomic structural variation. Structural variation can play a key role in maintaining differences between alternative phenotypes, such as phenotypic morphs and life history strategies. Genomic regions containing two or more linked functional mutations that control discrete traits are often referred to as “supergenes.” Oftentimes, supergenes are inversions, but other structural variants and ploidy differences fall under the supergene umbrella.
 
+**_Ongoing work_**
+
+Currently, I am using comparative genomics and population genomics methods to understand how and why multiple neo-sex chromosomes are maintained in the mountain pine beetle. This question is not only fascinating from a genome evolution perspective, but also, from a speciation perspective where sex differences and incompatibilities can often be a pathway to species divergence. More to come on this!
+
 **Sex chromosome evolution**
 
 Most of our understanding of sex chromosomes come from static and stable systems, where there isn’t much change occurring. New, or “neo,” sex chromosomes allow us to gain a glimpse of the the early stages of genomic evolution since old sex chromosomes can fuse to autosomes allowing for the process to play out once again. Recently, my colleagues and I documented the variant sex chromosomes in what is typically regarded as a static and stable sex chromosome system, the mammal X and Y. In our recent review on variant sex chromosomes in mammals <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024, _Journal of Heredity_)</a>, we show that variant sex chromosomes are abundant based on published karyotype data. We also discuss the role of genomic and sexual conflict in the evolution of variant sex chromosome systems.
@@ -13,10 +17,6 @@ Most of our understanding of sex chromosomes come from static and stable systems
 <img src="../images/Fig1_JHeredity_Hughes2024.jpeg" alt="drawing" width="1000"/>
 
 _Figure from <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024)</a>: Family level phylogeny of Mammalia> Families with species having variant sex chromosomes in purple. Monotremes in blue. The key has the sex chromosome system categories._
-
-**_Ongoing work_**
-
-Currently, I am using comparative genomics and population genomics methods to understand how and why multiple neo-sex chromosomes are maintained in the mountain pine beetle. This question is not only fascinating from a genome evolution perspective, but also, from a speciation perspective where sex differences and incompatibilities can often be a pathway to species divergence. More to come on this!
 
 
 **Evolution of complex traits**
