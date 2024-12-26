@@ -16,7 +16,7 @@ Recently, my collaborators and I documented the variant sex chromosomes in what 
 
 <img src="../images/Fig1_JHeredity_Hughes2024.jpeg" alt="drawing" width="750"/>
 
-_Figure from <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024)</a>: Family level phylogeny of Mammalia: Families with species having variant sex chromosomes in purple. Monotremes in blue. The key has the sex chromosome system categories._
+_Figure1 from <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024)</a>: Family level phylogeny of Mammalia: Families with species having variant sex chromosomes in purple. Monotremes in blue. The key has the sex chromosome system categories._
 
 
 **Evolution of complex traits**
@@ -24,6 +24,7 @@ _Figure from <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" re
 Complex traits that are inherited as a simple Mendelian unit are fascinating. During my Ph.D. dissertation, I worked in the _Formica_ ant system. _Formica_ ants have a supergene that determines colony queen number that is ~30 million years old <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16196" target="_blank" rel="noopener noreferrer">(Purcell, Lagunas-Robles, Rabeling, Borowiec, & Brelsford 2021, _Molecular ecology_) </a>! I was interested in understanding whether colony sex ratio could be associated with this "social" supergene as colonies specializing in my male production are expected to have many queens (=polygyne) and colonies specializing in producing future queens (or gynes) are expected to have a single queen (=monogyne). There is an elegant body of literature on sex ratios in ants and I cannot do it justice here but see <a href="https://academic.oup.com/beheco/article-abstract/19/2/382/213557" target="_blank" rel="noopener noreferrer">Meunier et. al. 2008</a> for a review. I hypothesized that colonies with the _M_ haplotype (monogyne-associated in other _Formica_ species) would produce gynes and colonies with _P_ haplotype (polygyne-associated in other _Formica_ species) would produce males. 
 
 <img src="../images/Fig4_PNAS_GLR2021.jpg" alt="drawing" width="750"/>
+
 _Figure4 from <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021)</a>: A) Genotype count in the population between colonies producing gynes and colonies producing males. B) Proposed inhertiance mechanism. C) Colony level genotypes between gyne producing and male producing colonies showing the_ M<sub>D</sub> _is associated with producing gynes. D) Using colonies spread across the Alaska, British Columbia, and Alberta, we found a similar distribution of genotypes with all the colonies with the_ P _haplotype producing males._
 
 
