@@ -33,7 +33,7 @@ _D) Using colonies spread across the Alaska, British Columbia, and Alberta, we f
 Instead, my collaborators and I found something unexpected! There were two _M_ haplotypes, the _M~D~_ and the _M<sub>A</sub>_ <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)</a>. Colonies that were heterozygous for the _M<sub>D</sub>_ were producing gynes, while colonies that were homozygous for the _M~A~_ were producing males. The _P_ haplotype was present in our population at a low frequency and the colonies with a _P_ haplotype were producing males.
 
 
-![Figure 2 from (Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)]<img src="../images/Fig2_PNAS_GLR2021.jpg" alt="drawing" width="1000"/>
+![Figure 2 from (Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)]<img src="../images/Fig2_PNAS_GLR2021.jpg" alt="drawing" width="500"/>
 _A) Genetic differentiation between _M<sub>D</sub>_/_M<sub>A</sub>_ workers vs _M<sub>D</sub>_/_M<sub>A</sub>__
 
 _B) Genetic differentiation between _P_/_M<sub>A</sub>_ workers vs _M<sub>A</sub>_/_M<sub>A</sub>__
