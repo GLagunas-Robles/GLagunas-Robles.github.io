@@ -28,10 +28,10 @@ Complex traits that are inherited as a simple Mendelian unit are fascinating. Du
 _A) Genotype count in the population between colonies producing gynes and colonies producing males. B) Proposed inhertiance mechanism. C) Colony level genotypes between gyne producing and male producing colonies showing the_ M<sub>D</sub> _is associated with producing gynes. D) Using colonies spread across the Alaska, British Columbia, and Alberta, we found a similar distribution of genotypes with all the colonies with the_ P _haplotype producing males._
 
 
-Instead, my collaborators and I found something unexpected! There were two _M_ haplotypes, the _M<sub>D</sub>_ and the _M<sub>A</sub>_ <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)</a>. Colonies that were heterozygous for the _M<sub>D</sub>_ were producing gynes, while colonies that were homozygous for the _M~A~_ were producing males. The _P_ haplotype was present in our population at a low frequency and the colonies with a _P_ haplotype were producing males.
+Instead, my collaborators and I found something unexpected! There were two _M_ haplotypes, the _M<sub>D</sub>_ and the _M<sub>A</sub>_ <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)</a>. Colonies that were heterozygous for the _M<sub>D</sub>_ were producing gynes, while colonies that were homozygous for the _M<sub>A</sub>_ were producing males. The _P_ haplotype was present in our population at a low frequency and the colonies with a _P_ haplotype were producing males.
 
 
-<img src="../images/Fig2_PNAS_GLR2021.jpg" alt="drawing" width="500"/>
+<img src="../images/Fig2_PNAS_GLR2021.jpg" alt="drawing" width="400"/>
 
 _A) Genetic differentiation between_ M<sub>D</sub>/M<sub>A</sub> _workers vs_ M<sub>D</sub>/M<sub>A</sub>_. B) Genetic differentiation between_ P/M<sub>A</sub> _workers vs_ M<sub>A</sub>/M<sub>A</sub> _workers_.
 
