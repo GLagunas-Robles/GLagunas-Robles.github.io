@@ -33,6 +33,6 @@ Instead, my collaborators and I found something unexpected! There were two _M_ h
 
 <img src="../images/Fig2_PNAS_GLR2021.jpg" alt="drawing" width="400"/>
 
-_A) Genetic differentiation between_ M<sub>D</sub>/M<sub>A</sub> _workers vs_ M<sub>D</sub>/M<sub>A</sub>_. B) Genetic differentiation between_ P/M<sub>A</sub> _workers vs_ M<sub>A</sub>/M<sub>A</sub> _workers_.
+_A) Genetic differentiation between_ M<sub>D</sub>/M<sub>A</sub> _workers vs_ M<sub>D</sub>/M<sub>A</sub> _workers. B) Genetic differentiation between_ P/M<sub>A</sub> _workers vs_ M<sub>A</sub>/M<sub>A</sub> _workers._
 
 Additionally, we found that the _P_ haplotype had changed in structure. In the species _Formica glacialis_, instead of spanning ~2Mbp-12.5Mbp, the _P_ haplotype only spanned the second half of that region ~7.5Mbp-12.5Mbp. The _M<sub>D</sub>_ and the _M<sub>A</sub>_ haplotypes are differentiated from ~2Mbp-7.5Mbp. While this work showed that the ancient supergene system is still dynamic and evolving, other work I led in another group of  _Formica_ species that are famously recognized for their large multi-queen nests lack the _P_ haplotype suggesting that the ancient _P_ haplotype is not necessary for multi-queen nests in some _Formica_ species <a href="https://www.biorxiv.org/content/10.1101/2024.09.15.613148v1.abstract" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Alam, & Brelsford 2024 _in review_)</a>.
