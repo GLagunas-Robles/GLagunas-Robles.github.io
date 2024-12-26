@@ -10,7 +10,7 @@ As an evolutionary biologist, I am fundamentally interested in how genome evolut
 
 Most of our understanding of sex chromosomes come from static and stable systems, where there isn’t much change occurring. New, or “neo,” sex chromosomes allow us to gain a glimpse of the the early stages of genomic evolution since old sex chromosomes can fuse to autosomes allowing for the process to play out once again. Recently, my colleagues and I documented the variant sex chromosomes in what is typically regarded as a static and stable sex chromosome system, the mammal X and Y. In our recent review on variant sex chromosomes in mammals <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024, _Journal of Heredity_)</a>, we show that variant sex chromosomes are abundant based on published karyotype data. We also discuss the role of genomic and sexual conflict in the evolution of variant sex chromosome systems.
 
-![Figure 1 from (Hughes, Lagunas-Robles, & Campbell 2024, Journal of Heredity]<img src="../images/Fig1_JHeredity_Hughes2024.jpeg" alt="drawing" width="1000"/>
+<img src="../images/Fig1_JHeredity_Hughes2024.jpeg" alt="drawing" width="1000"/>
 
 _Ongoing work_
 
@@ -20,7 +20,7 @@ Currently, I am using comparative genomics and population genomics methods to un
 **Evolution of complex traits**
 Complex traits that are inherited as a simple Mendelian unit are fascinating. During my Ph.D. dissertation, I worked in the _Formica_ ant system. _Formica_ ants have a supergene that determines colony queen number that is ~30 million years old <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16196" target="_blank" rel="noopener noreferrer">(Purcell, Lagunas-Robles, Rabeling, Borowiec, & Brelsford 2021, _Molecular ecology_) </a>! I was interested in understanding whether colony sex ratio could be associated with this "social" supergene as colonies specializing in my male production are expected to have many queens and colonies specializing in producing future queens (or gynes) are expected to have a single queen. There is an elegant body of literature on sex ratios in ants and I cannot do it justice here but see <a href="https://academic.oup.com/beheco/article-abstract/19/2/382/213557" target="_blank" rel="noopener noreferrer">Meunier et. al. 2008</a> for a review. I hypothesized that colonies with the _M_ haplotype (monogyne-associated in other _Formica_ species) would produce gynes and colonies with _P_ haplotype (polygyne-associated in other _Formica_ species) would produce males. 
 
-![Figure 4 from (Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)]<img src="../images/Fig4_PNAS_GLR2021.jpg" alt="drawing" width="1000"/>
+<img src="../images/Fig4_PNAS_GLR2021.jpg" alt="drawing" width="1000"/>
 _A) Genotype count in the population between colonies producing gynes and colonies producing males_
 
 _B) Proposed inhertiance mechanism_
@@ -33,7 +33,7 @@ _D) Using colonies spread across the Alaska, British Columbia, and Alberta, we f
 Instead, my collaborators and I found something unexpected! There were two _M_ haplotypes, the _M~D~_ and the _M<sub>A</sub>_ <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)</a>. Colonies that were heterozygous for the _M<sub>D</sub>_ were producing gynes, while colonies that were homozygous for the _M~A~_ were producing males. The _P_ haplotype was present in our population at a low frequency and the colonies with a _P_ haplotype were producing males.
 
 
-![Figure 2 from (Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)]<img src="../images/Fig2_PNAS_GLR2021.jpg" alt="drawing" width="500"/>
+<img src="../images/Fig2_PNAS_GLR2021.jpg" alt="drawing" width="500"/>
 _A) Genetic differentiation between _M<sub>D</sub>_/_M<sub>A</sub>_ workers vs _M<sub>D</sub>_/_M<sub>A</sub>__
 
 _B) Genetic differentiation between _P_/_M<sub>A</sub>_ workers vs _M<sub>A</sub>_/_M<sub>A</sub>__
