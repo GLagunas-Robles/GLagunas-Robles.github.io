@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "German Lagunas-Robles"
 author_profile: true
 redirect_from: 
   - /about/
