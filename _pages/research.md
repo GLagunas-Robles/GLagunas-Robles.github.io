@@ -21,6 +21,7 @@ Currently, I am using comparative genomics and population genomics methods to un
 Complex traits that are inherited as a simple Mendelian unit are fascinating. During my Ph.D. dissertation, I worked in the _Formica_ ant system. _Formica_ ants have a supergene that determines colony queen number that is ~30 million years old <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16196" target="_blank" rel="noopener noreferrer">(Purcell, Lagunas-Robles, Rabeling, Borowiec, & Brelsford 2021, _Molecular ecology_) </a>! I was interested in understanding whether colony sex ratio could be associated with this "social" supergene as colonies specializing in my male production are expected to have many queens and colonies specializing in producing future queens (or gynes) are expected to have a single queen. There is an elegant body of literature on sex ratios in ants and I cannot do it justice here but see <a href="https://academic.oup.com/beheco/article-abstract/19/2/382/213557" target="_blank" rel="noopener noreferrer">Meunier et. al. 2008</a> for a review. I hypothesized that colonies with the _M_ haplotype (monogyne-associated in other _Formica_ species) would produce gynes and colonies with _P_ haplotype (polygyne-associated in other _Formica_ species) would produce males. 
 
 <img src="../images/Fig4_PNAS_GLR2021.jpg" alt="drawing" width="1000"/>
+
 _A) Genotype count in the population between colonies producing gynes and colonies producing males_
 
 _B) Proposed inhertiance mechanism_
@@ -34,6 +35,7 @@ Instead, my collaborators and I found something unexpected! There were two _M_ h
 
 
 <img src="../images/Fig2_PNAS_GLR2021.jpg" alt="drawing" width="500"/>
+
 _A) Genetic differentiation between _M<sub>D</sub>_/_M<sub>A</sub>_ workers vs _M<sub>D</sub>_/_M<sub>A</sub>__
 
 _B) Genetic differentiation between _P_/_M<sub>A</sub>_ workers vs _M<sub>A</sub>_/_M<sub>A</sub>__
