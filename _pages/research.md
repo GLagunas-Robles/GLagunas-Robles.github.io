@@ -16,7 +16,7 @@ Most of our understanding of sex chromosomes come from static and stable systems
 
 <img src="../images/Fig1_JHeredity_Hughes2024.jpeg" alt="drawing" width="1000"/>
 
-_Figure from <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024)</a>: Family level phylogeny of Mammalia> Families with species having variant sex chromosomes in purple. Monotremes in blue. The key has the sex chromosome system categories._
+_Figure from <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024)</a>: Family level phylogeny of Mammalia: Families with species having variant sex chromosomes in purple. Monotremes in blue. The key has the sex chromosome system categories._
 
 
 **Evolution of complex traits**
