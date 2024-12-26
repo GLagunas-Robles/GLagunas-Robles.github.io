@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Evolution, Ecology, and Organismal Biology, University of California, Riverside, 2024
+  Dissertation advisor: Alan Brelsford
+  
 * B.Sc. in Biotechnology, Cal Poly Pomona, 2018
 
 Select Fellowships and Awards
