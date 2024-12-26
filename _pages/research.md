@@ -12,11 +12,11 @@ Most of our understanding of sex chromosomes come from static and stable systems
 
 **Sex chromosome evolution**
 
-Recently, my collaborators and I documented the variant sex chromosomes in what is typically regarded as a static and stable sex chromosome system, the mammal X and Y. In our recent review on variant sex chromosomes in mammals <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024, _Journal of Heredity_)</a>, we show that variant sex chromosomes are abundant based on published karyotype data. We also discuss the role of genomic and sexual conflict in the evolution of variant sex chromosome systems.
+Recently, my collaborators and I documented the variant sex chromosomes in what is typically regarded as a static and stable sex chromosome system, the mammal X and Y. In our recent review on variant sex chromosomes in mammals <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024)</a>, we show that variant sex chromosomes are abundant based on published karyotype data. We also discuss the role of genomic and sexual conflict in the evolution of variant sex chromosome systems.
 
 <img src="../images/Fig1_JHeredity_Hughes2024.jpeg" alt="drawing" width="750"/>
 
-_Figure1 from <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024)</a>: Family level phylogeny of Mammalia: Families with species having variant sex chromosomes in purple. Monotremes in blue. The key has the sex chromosome system categories._
+_Figure1 from <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">(Hughes, Lagunas-Robles, & Campbell 2024, _Journal of Heredity_)</a>: Family level phylogeny of Mammalia: Families with species having variant sex chromosomes in purple. Monotremes in blue. The key has the sex chromosome system categories._
 
 
 **Evolution of complex traits**
@@ -25,14 +25,14 @@ Complex traits that are inherited as a simple Mendelian unit are fascinating. Du
 
 <img src="../images/Fig4_PNAS_GLR2021.jpg" alt="drawing" width="750"/>
 
-_Figure4 from <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021)</a>: A) Genotype count in the population between colonies producing gynes and colonies producing males. B) Proposed inhertiance mechanism. C) Colony level genotypes between gyne producing and male producing colonies showing the_ M<sub>D</sub> _is associated with producing gynes. D) Using colonies spread across the Alaska, British Columbia, and Alberta, we found a similar distribution of genotypes with all the colonies with the_ P _haplotype producing males._
+_Figure4 from <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)</a>: A) Genotype count in the population between colonies producing gynes and colonies producing males. B) Proposed inhertiance mechanism. C) Colony level genotypes between gyne producing and male producing colonies showing the_ M<sub>D</sub> _is associated with producing gynes. D) Using colonies spread across the Alaska, British Columbia, and Alberta, we found a similar distribution of genotypes with all the colonies with the_ P _haplotype producing males._
 
 
-Instead, my collaborators and I found something unexpected! There were two _M_ haplotypes, the _M<sub>D</sub>_ and the _M<sub>A</sub>_ <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)</a>. Colonies that were heterozygous for the _M<sub>D</sub>_ were producing gynes, while colonies that were homozygous for the _M<sub>A</sub>_ were producing males. The _P_ haplotype was present in our population at a low frequency and the colonies with a _P_ haplotype were producing males.
+Instead, my collaborators and I found something unexpected! There were two _M_ haplotypes, the _M<sub>D</sub>_ and the _M<sub>A</sub>_ <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021)</a>. Colonies that were heterozygous for the _M<sub>D</sub>_ were producing gynes, while colonies that were homozygous for the _M<sub>A</sub>_ were producing males. The _P_ haplotype was present in our population at a low frequency and the colonies with a _P_ haplotype were producing males.
 
 
 <img src="../images/Fig2_PNAS_GLR2021.jpg" alt="drawing" width="400"/>
 
-_Figure2 from <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021)</a>: A) Genetic differentiation between_ M<sub>D</sub>/M<sub>A</sub> _workers vs_ M<sub>A</sub>/M<sub>A</sub> _workers. B) Genetic differentiation between_ P/M<sub>A</sub> _workers vs_ M<sub>A</sub>/M<sub>A</sub> _workers._
+_Figure2 from <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)</a>: A) Genetic differentiation between_ M<sub>D</sub>/M<sub>A</sub> _workers vs_ M<sub>A</sub>/M<sub>A</sub> _workers. B) Genetic differentiation between_ P/M<sub>A</sub> _workers vs_ M<sub>A</sub>/M<sub>A</sub> _workers._
 
 Additionally, we found that the _P_ haplotype had changed in structure. In the species _Formica glacialis_, instead of spanning ~2Mbp-12.5Mbp, the _P_ haplotype only spanned the second half of that region ~7.5Mbp-12.5Mbp. The _M<sub>D</sub>_ and the _M<sub>A</sub>_ haplotypes are differentiated from ~2Mbp-7.5Mbp. While this work showed that the ancient supergene system is still dynamic and evolving, other work I led in another group of  _Formica_ species that are famously recognized for their large multi-queen nests lack the _P_ haplotype suggesting that the ancient _P_ haplotype is not necessary for multi-queen nests in some _Formica_ species <a href="https://www.biorxiv.org/content/10.1101/2024.09.15.613148v1.abstract" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Alam, & Brelsford 2024 _in review_)</a>.
