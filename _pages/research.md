@@ -23,7 +23,7 @@ Complex traits that are inherited as a simple Mendelian unit are fascinating. Du
 
 ![Figure 4 from (Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)](../images/Fig4_PNAS_GLR2021.jpg)
 
-Instead, my collaborators and I found something unexpected! There were two _M_ haplotypes, the _M~D~_ and the _M~A~_ <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)</a>. Colonies that were heterozygous for the _M~D~_ were producing gynes, while colonies that were homozygous for the _M~A~_ were producing males. The _P_ haplotype was present in our population at a low frequency and the colonies with a _P_ haplotype were producing males.
+Instead, my collaborators and I found something unexpected! There were two _M_ haplotypes, the _M~D~_ and the _M~A~_ <a href="https://www.pnas.org/doi/epub/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">(Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)</a>. Colonies that were heterozygous for the _M_ ~D~ were producing gynes, while colonies that were homozygous for the _M~A~_ were producing males. The _P_ haplotype was present in our population at a low frequency and the colonies with a _P_ haplotype were producing males.
 
 
 ![Figure 2 from (Lagunas-Robles, Purcell, & Brelsford 2021, _PNAS_)](../images/Fig2_PNAS_GLR2021.jpg)
