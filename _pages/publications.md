@@ -9,7 +9,7 @@ Vist <a href="https://scholar.google.com/citations?user=fPlSsrAAAAAJ&hl=en" targ
 
 ^denotes undergraduate mentee
 
-#**Peer-reviewed**
+# **Peer-reviewed**
 
 
 Hughes JJ, <span style="text-decoration:underline">Lagunas-Robles G</span>, & Campbell P, 2024. The role of conflict in the formation and maintenance of variant sex chromosome systems in mammals. _**Journal of Heredity**_, 115(6), pp.601–624. <a href="https://doi.org/10.1093/jhered/esae031" target="_blank" rel="noopener noreferrer">https://doi.org/10.1093/jhered/esae031</a>
@@ -18,7 +18,7 @@ Hughes JJ, <span style="text-decoration:underline">Lagunas-Robles G</span>, & Ca
 
 Purcell J, <span style="text-decoration:underline">Lagunas-Robles G</span>, Rabeling C, Borowiec ML, & Brelsford A, 2021. The maintenance of polymorphism in an ancient social supergene. _**Molecular ecology**_, 30(23), pp.6246-6258. <a href="https://doi.org/10.1111/mec.16196" target="_blank" rel="noopener noreferrer">https://doi.org/10.1111/mec.16196</a> 
 
-#**Pre-prints**
+# **Pre-prints**
 
 
 <span style="text-decoration:underline">Lagunas-Robles G</span>, Alam Z^, and Brelsford A, 2024. Unexpected absence of a multiple-queen supergene haplotype from supercolonial populations of _Formica_ ants. _bioRxiv_; <a href="https://doi.org/10.1101/2024.09.15.613148" target="_blank" rel="noopener noreferrer">https://doi.org/10.1101/2024.09.15.613148</a> _in review_
