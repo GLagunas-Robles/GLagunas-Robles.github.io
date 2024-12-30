@@ -16,7 +16,7 @@ Hughes JJ, <span style="text-decoration:underline">Lagunas-Robles G</span>, & Ca
 
 <span style="text-decoration:underline">Lagunas-Robles G</span>, Purcell J, & Brelsford A, 2021. Linked supergenes underlie split sex ratio and social organization in an ant. _**Proceedings of the National Academy of Sciences**_, 118(46), p.e2101427118. <a href="https://doi.org/10.1073/pnas.2101427118" target="_blank" rel="noopener noreferrer">https://doi.org/10.1073/pnas.2101427118</a>
 
-Purcell J, [<span style="text-decoration:underline">Lagunas-Robles G</span>, Rabeling C, Borowiec ML, & Brelsford A, 2021. The maintenance of polymorphism in an ancient social supergene. _**Molecular ecology**_, 30(23), pp.6246-6258. <a href="https://doi.org/10.1111/mec.16196" target="_blank" rel="noopener noreferrer">https://doi.org/10.1111/mec.16196</a> 
+Purcell J, <span style="text-decoration:underline">Lagunas-Robles G</span>, Rabeling C, Borowiec ML, & Brelsford A, 2021. The maintenance of polymorphism in an ancient social supergene. _**Molecular ecology**_, 30(23), pp.6246-6258. <a href="https://doi.org/10.1111/mec.16196" target="_blank" rel="noopener noreferrer">https://doi.org/10.1111/mec.16196</a> 
 
 **Pre-prints**
 
